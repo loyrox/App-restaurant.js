@@ -14,5 +14,5 @@
 ## Contributors
 
 <a href="https://github.com/loyrox/">
-  <img src="https://contributors-img.web.app/image?repo=byprogrammers/lets-code-react-native" />
+  <img src="https://cdn.discordapp.com/attachments/973187245932707910/973304170612400188/thumb-1920-128640.png" />
 </a>
